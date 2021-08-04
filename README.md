@@ -1,4 +1,4 @@
-<h3>Hi! My name is Dorthy Thielsen and I am currently a full stack web dev student of Flatiron. I am currently learning Sinatra. My goal upon graduation is to work for a company where web accessiblity is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</h3>
+<h3>Hi! My name is Dorthy Thielsen and I am currently a full stack web dev student of Flatiron. My pronouns are she/her. I am currently learning Sinatra. My goal upon graduation is to work for a company where web accessiblity is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</h3>
 
 <h2>Connect with me on social media:</h2>
 <a href="https://dev.to/dotnotation" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"></a>
