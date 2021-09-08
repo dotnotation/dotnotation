@@ -1,7 +1,7 @@
 <p>Hi! My name is Dorthy Thielsen and I am currently a full stack web dev student of Flatiron. My pronouns are she/her. I am currently learning Ruby on Rails. My goal upon graduation is to work for a company where web accessiblity is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</p>
 
 <h3>Currently working on:</h3>
-<p>🦇I am currently making a web application for bat researchers to log the bats they encounter. I hope to be able to give this to actual researchers in the field some day. This is my final project for Sinatra. Feel free to give me feed back about this app.🦇</p>
+<p>🦇I am currently making a web application for bat researchers to log the bats they encounter. I hope to be able to give this to actual researchers in the field some day. The log is currently built with Sinatra, but I plan to rebuild it using Rails. A feature I want to add is an orgainization model so an organiziation could have many researchers and many bats through researchers. Feel free to give me feed back about this app and any features you would like to see added.🦇</p>
 
 <h3>Connect with me on social media:</h3>
 <a href="https://dev.to/dotnotation" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"></a>
