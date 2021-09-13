@@ -30,6 +30,6 @@
 <br/>
 <br/>
 <img align="left" src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" alt="Adobe After Effects">
-<img align="left" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud">
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Creative Cloud">
 
 
