@@ -18,6 +18,7 @@
       <td><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"></td>
 
       <td><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"></td>
+   </tr>
 </table>
 
 <h3>Frameworks and Libraries:</h3>
