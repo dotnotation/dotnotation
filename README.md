@@ -26,6 +26,8 @@
 <h3>Other Skills:</h3>
 <img align="left" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+<br/>
+<br/>
 
 <h3>Programs:</h3>
 <iimg align="left" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
