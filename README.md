@@ -1,7 +1,7 @@
 <p>Hi! My name is Dorthy Thielsen and I am currently a full stack web dev student of Flatiron. My pronouns are she/her. I am currently learning Ruby on Rails. My goal upon graduation is to work for a company where web accessiblity is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</p>
 
 <h3>Currently working on:</h3>
-<p>I am currently making a web application for pet owners. Does your dog have a favorite toy and they destroyed it? Wouldn't you love to rebuy that toy? Well this app will allow you to have toybox for all of your pets and include information like where you purchased it, how much they liked it, and if you are like me, does it need repaired. This will be my final project for the JS section of the Flatiron Bootcamp. I can't wait to show you what I have created. Check back soon!</p>
+<p>Learning React, practicing git, and writing rspec. I am in the final section of my flatiron bootcamp. I plan on re-vamping my Furmiliar app from my JS final for my React final. If you didn't see my Furmiliar vanilla JS with rails backend project, it is pinned down below.</p>
 
 <h3>Connect with me on social media:</h3>
 <a href="https://dev.to/dotnotation" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"></a>
