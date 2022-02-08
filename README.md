@@ -1,4 +1,4 @@
-<p>Hi! My name is Dorthy Thielsen and I am currently a full stack web dev student of Flatiron. My pronouns are she/her. I am currently learning Ruby on Rails. My goal upon graduation is to work for a company where web accessiblity is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</p>
+<p>Hi! My name is Dorthy Thielsen and I am currently a full stack web dev student of Flatiron. My pronouns are she/her. I am currently learning React/Redux. My goal upon graduation is to work for a company where web accessibility is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</p>
 
 <h3>Currently working on:</h3>
 <p>Learning React, practicing git, and writing rspec. I am in the final section of my flatiron bootcamp. I plan on re-vamping my Furmiliar app from my JS final for my React final. If you didn't see my Furmiliar vanilla JS with rails backend project, it is pinned down below.</p>
@@ -20,6 +20,7 @@
 <h3>Frameworks and Libraries:</h3>
 <img align="left" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
 <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
 <br/>
 <br/>
 
