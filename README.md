@@ -1,7 +1,7 @@
-<p>Hi! My name is Dorthy Thielsen and I am currently a full stack web dev student of Flatiron. My pronouns are she/her. I am currently learning React/Redux. My goal upon graduation is to work for a company where web accessibility is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</p>
+<p>Hi! My name is Dorthy Thielsen and I recently graduated from Flatiron's full stack dev program. My pronouns are she/her. My goal is to work for a company where web accessibility is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</p>
 
 <h3>Currently working on:</h3>
-<p>I am working on my final project for the Flatiron bootcamp! I am re-vamping my Furmiliar app using React/Redux with a Rails API backend. I am also practicing git, and writing rspec in my spare time. Upon graduation I want to focus on learning more about accessibility and getting certified by the International Association of Accessibility Professionals.</p>
+<p>As a recent graduate, I am continuing to hone my skills. I am practicing git, learning figma and writing rspec in my spare time. I want to focus on learning more about accessibility and getting certified by the International Association of Accessibility Professionals.</p>
 
 <h3>Connect with me on social media:</h3>
 <a href="https://dev.to/dotnotation" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"></a>
