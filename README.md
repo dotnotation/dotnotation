@@ -1,3 +1,4 @@
+![LinkedinBanner-01](https://user-images.githubusercontent.com/82177101/166061348-040130e8-596c-40da-b021-ebe5e67429bf.jpg)
 <p>Hi! My name is Dorthy Thielsen and I recently graduated from Flatiron's full stack dev program. My pronouns are she/her. My goal is to work for a company where web accessibility is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</p>
 
 <h3>Currently working on:</h3>
