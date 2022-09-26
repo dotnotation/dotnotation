@@ -1,5 +1,5 @@
 ![LinkedinBanner-01](https://user-images.githubusercontent.com/82177101/166061348-040130e8-596c-40da-b021-ebe5e67429bf.jpg)
-<p>Hi! My name is Dorthy Thielsen and I recently graduated from Flatiron's full stack dev program. My pronouns are she/her. My goal is to work for a company where web accessibility is a top priority. I have a background in graphic design and puppet fabrication so I can't wait to make some beautiful web applications.</p>
+<p>Hi! My name is Dorthy Thielsen and I recently graduated from Flatiron's full stack dev program. My pronouns are she/her. My goal is to work for a company where web accessibility is a top priority. I have a background in graphic design and puppet fabrication which gives me a lot of experience with collborating, problem solving, making aesthically pleasing designs, and thinking about the user experience first.</p>
 
 <h3>Currently working on:</h3>
 <p>As a recent graduate, I am continuing to hone my skills. I am practicing git, learning figma, studying algorithms and data structures, and writing rspec in my spare time. I want to focus on learning more about accessibility and getting certified by the International Association of Accessibility Professionals. I still have so much to learn and that is exciting.</p>
