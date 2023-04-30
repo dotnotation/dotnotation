@@ -1,8 +1,8 @@
 ![LinkedinBanner-01](https://user-images.githubusercontent.com/82177101/166061348-040130e8-596c-40da-b021-ebe5e67429bf.jpg)
-<p>Hi! My name is Dorthy Thielsen and I recently graduated from Flatiron's full stack dev program. My pronouns are she/her. My goal is to work for a company where web accessibility is a top priority. I have a background in graphic design and puppet fabrication which gives me a lot of experience with collaborating, problem solving, making aesthetically pleasing designs, and thinking about the user experience first.</p>
+<p>Hi! My name is Dorthy Thielsen and I am a full stack software engineer. I currently am working at Elemental Media Citizens working on both a legacy code base and a brand new app. I primarily work in Ruby and Javascript. My pronouns are she/her. I have a background in graphic design and puppet fabrication which gives me a lot of experience with collaborating, problem solving, making aesthetically pleasing designs, and thinking about the user experience first.</p>
 
 <h3>Currently working on:</h3>
-<p>As a recent graduate, I am continuing to hone my skills. I am practicing git, learning figma, studying algorithms and data structures, and writing rspec in my spare time. I want to focus on learning more about accessibility and getting certified by the International Association of Accessibility Professionals. I still have so much to learn and that is exciting.</p>
+<p>I am continuing to hone my skills while I work more than full time. I am studing algorithms and data structures, learning TypeScript and writing rspec in my spare time. I want to focus on learning more about accessibility and getting certified by the International Association of Accessibility Professionals. I still have so much to learn and that is exciting.</p>
 
 <h3>Connect with me on social media:</h3>
 <a href="https://dev.to/dotnotation" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"></a>
